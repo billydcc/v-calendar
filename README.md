@@ -3,7 +3,7 @@
       <img width="200" src="https://res.cloudinary.com/dqgcfqzpk/image/upload/v1557324348/v-calendar/hero.png">
     </a>
     <br>
-    An elegant calendar and datepicker plugin for Vuejs.
+    An elegant calendar and datepicker plugin for Vuejs (forked).
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ npm i --save v-calendar
 
 ## Documentation
 
-For full documentation, visit [vcalendar.io](https://vcalendar.io/).
+For full documentation (of pre-forked v-calendar), visit [vcalendar.io](https://vcalendar.io/).
 
 ### Attributes
 
